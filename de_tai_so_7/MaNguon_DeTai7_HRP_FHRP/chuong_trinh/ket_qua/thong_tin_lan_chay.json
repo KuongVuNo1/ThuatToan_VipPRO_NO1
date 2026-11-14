@@ -1,0 +1,16 @@
+{
+  "python": "3.11.0",
+  "may": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+  "he_dieu_hanh": "Windows-10-10.0.26200-SP0",
+  "so_tuan_loi_suat": 287,
+  "tu_ngay": "2021-04-02",
+  "den_ngay": "2026-10-16",
+  "so_ma": 30,
+  "tham_so_tong_hop": {
+    "cmin": 0.10215046760939712,
+    "cmax": 0.6212548672133714,
+    "vmax": 0.003670179882784066
+  },
+  "che_do_nhanh": false,
+  "tong_thoi_gian_chay_giay": 199.5
+}
