@@ -1,0 +1,23 @@
+{
+  "python": "3.13.16",
+  "may": "x86_64",
+  "he_dieu_hanh": "Linux-6.18.44-fc-v470-x86_64-with-glibc2.39",
+  "so_ma": 500,
+  "so_tuan_loi_suat": 517,
+  "tu_ngay": "2016-11-25",
+  "den_ngay": "2026-11-13",
+  "so_ma_du_lieu_day_du_10_nam": 355,
+  "so_ma_trong_cua_so_52_tuan_cuoi": 493,
+  "tuong_quan_52_tuan_cuoi": {
+    "trung_binh": 0.10384722157684742,
+    "nho_nhat": -0.6711046321700157,
+    "lon_nhat": 0.8826762951727933
+  },
+  "tham_so_tong_hop": {
+    "cmin": -0.16906822939636326,
+    "cmax": 0.40898307819492513,
+    "vmax": 0.007687237163312775
+  },
+  "che_do_nhanh": false,
+  "tong_thoi_gian_chay_giay": 1156.6
+}
